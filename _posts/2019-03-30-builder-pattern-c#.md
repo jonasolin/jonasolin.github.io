@@ -108,4 +108,4 @@ Check out the links below for more information regarding the builder pattern.
 
 ### Links
 [Builder pattern on Wikipedia](https://en.wikipedia.org/wiki/Builder_pattern)  
-[Refactoring Guru Bulder pattern](https://refactoring.guru/design-patterns/builder/csharp/example)  
+[Refactoring Guru Builder pattern](https://refactoring.guru/design-patterns/builder/csharp/example)  
